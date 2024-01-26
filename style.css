@@ -8,7 +8,6 @@ body {
     display: flex;
     justify-content: center;
 }
-
 .contenedores {
     display: flex;
     justify-content: center;
@@ -19,13 +18,11 @@ body {
     width: 500px;
     height: 100%;
     background-color: white;
-    margin-top: 30px;
-        
+    margin-top: 30px;   
 }
 .contenedor:last-of-type {
     margin-bottom: 30px;
 }
-
 .contenido {
     display: flex;
     justify-content: space-between;
